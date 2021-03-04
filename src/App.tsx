@@ -1,6 +1,7 @@
 import React from "react";
 import ReactFlow, { Elements, Edge, Node } from "react-flow-renderer";
 import "./App.css";
+import CustomEdge from "./CustomEdge";
 
 const numColumns = 4;
 const range = (n: number) => Array.from(Array(n).keys());
@@ -106,6 +107,7 @@ const edges: Array<Edge> = range(numColumns)
             source: `word-${m}`,
             target: `h1-${n}`,
             animated: false,
+            type: "custom",
           }))
         );
       })
@@ -114,8 +116,8 @@ const edges: Array<Edge> = range(numColumns)
 const elements: Elements = (nodes as Elements).concat(edges as Elements);
 
 const App = () => (
-  <div style={{ height: 500 }}>
-    <ReactFlow elements={elements} />
+  <div style={{ height: 1000 }}>
+    <ReactFlow edgeTypes={{ custom: CustomEdge }} elements={elements} />
   </div>
 );
 export default App;
