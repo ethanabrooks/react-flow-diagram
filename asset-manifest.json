@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/react-flow-diagram/static/css/main.36dd493a.chunk.css",
-    "main.js": "/react-flow-diagram/static/js/main.a56ff4a0.chunk.js",
-    "main.js.map": "/react-flow-diagram/static/js/main.a56ff4a0.chunk.js.map",
+    "main.js": "/react-flow-diagram/static/js/main.9bfdaf8a.chunk.js",
+    "main.js.map": "/react-flow-diagram/static/js/main.9bfdaf8a.chunk.js.map",
     "runtime-main.js": "/react-flow-diagram/static/js/runtime-main.d32d7f73.js",
     "runtime-main.js.map": "/react-flow-diagram/static/js/runtime-main.d32d7f73.js.map",
-    "static/js/2.68f30948.chunk.js": "/react-flow-diagram/static/js/2.68f30948.chunk.js",
-    "static/js/2.68f30948.chunk.js.map": "/react-flow-diagram/static/js/2.68f30948.chunk.js.map",
+    "static/js/2.15be67c4.chunk.js": "/react-flow-diagram/static/js/2.15be67c4.chunk.js",
+    "static/js/2.15be67c4.chunk.js.map": "/react-flow-diagram/static/js/2.15be67c4.chunk.js.map",
     "static/js/3.5c1314e5.chunk.js": "/react-flow-diagram/static/js/3.5c1314e5.chunk.js",
     "static/js/3.5c1314e5.chunk.js.map": "/react-flow-diagram/static/js/3.5c1314e5.chunk.js.map",
     "index.html": "/react-flow-diagram/index.html",
     "static/css/main.36dd493a.chunk.css.map": "/react-flow-diagram/static/css/main.36dd493a.chunk.css.map",
-    "static/js/2.68f30948.chunk.js.LICENSE.txt": "/react-flow-diagram/static/js/2.68f30948.chunk.js.LICENSE.txt"
+    "static/js/2.15be67c4.chunk.js.LICENSE.txt": "/react-flow-diagram/static/js/2.15be67c4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d32d7f73.js",
-    "static/js/2.68f30948.chunk.js",
+    "static/js/2.15be67c4.chunk.js",
     "static/css/main.36dd493a.chunk.css",
-    "static/js/main.a56ff4a0.chunk.js"
+    "static/js/main.9bfdaf8a.chunk.js"
   ]
 }
