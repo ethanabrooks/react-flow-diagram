@@ -77,6 +77,7 @@ const edges: Array<Edge> = range(numColumns)
         id: `hn-${n}-word-${n}`,
         target: `hn-${n}`,
         source: `word-${n}`,
+        label: "REINFORCE",
         animated: true,
       },
       {
